@@ -1,0 +1,19 @@
+{
+  "appFunctions": {
+    "getLocations": {
+      "file": "getLocations.js"
+    },
+    "getVehicles": {
+      "file": "getVehicles.js"
+    },
+    "getSchemas": {
+      "file": "getSchemas.js"
+    },
+    "rentVehicle": {
+      "file": "rentVehicle.js"
+    },
+    "getRentedVehicles": {
+      "file": "getRentedVehicles.js"
+    }
+  }
+}

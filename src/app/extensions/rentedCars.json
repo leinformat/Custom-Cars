@@ -1,0 +1,12 @@
+{
+    "type": "crm-card",
+    "data": {
+      "title": "Rented Cars",
+      "uid": "rented_cars",
+      "location": "crm.record.tab",
+      "module": {
+        "file": "RentedCars.jsx"
+      },
+      "objectTypes": [{ "name": "contacts" }]
+    }
+}
